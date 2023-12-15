@@ -26,3 +26,4 @@ PyPDF2==2.11.1
 pyjwt==2.6.0
 python-magic
 django-redis==5.2.0
+oss2==2.18.3
