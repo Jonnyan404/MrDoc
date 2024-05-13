@@ -10,11 +10,11 @@ whoosh==2.7.4
 django-haystack==3.1.1
 Markdown==3.3.3
 jieba==0.42.1
-mammoth==1.4.13
+mammoth==1.6.0
 markdownify==0.6.0
 selenium==3.141.0
 webdriver_manager==3.3.0
-PyYAML==5.3.1
+PyYAML==6.0.1
 qiniu==7.4.1
 mysqlclient
 django-auth-ldap>=3.0.0
@@ -26,3 +26,6 @@ pyjwt==2.6.0
 python-magic
 django-redis==5.2.0
 oss2==2.18.3
+python-docx==1.1.0
+markdown-it-py==2.2.0
+linkify-it-py==2.0.3
